@@ -17,7 +17,6 @@ def logarithms(n):
 
 logarithms(100)
 
-
 def logarithms2(n):
 	i = 1
 	while i <= n: 
